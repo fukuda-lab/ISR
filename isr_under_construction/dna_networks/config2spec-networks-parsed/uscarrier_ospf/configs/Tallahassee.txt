@@ -1,0 +1,12 @@
+ip ospf cost 1
+description "To Blountstown"
+--------------------
+ip ospf cost 1
+description "To Ocala"
+--------------------
+ip ospf cost 1
+description "To LakeCity"
+--------------------
+ip ospf cost 1
+description "To Albany"
+--------------------

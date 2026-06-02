@@ -1,0 +1,71 @@
+Antigua Guadeloupe StTTKittsTT&TTNevis
+Bahamas NodeID59 NodeID45
+Barbados NodeID22
+Belize Mexico NodeID28
+Bonaire Curacao
+CaymanTTIslands NodeID46 PeerCaymanTTIslands_0
+Columbia NodeID1 NodeID38
+CostaTTRica NodeID9 Panama Nicaragua
+Curacao Venezuela PuertoTTRico Bonaire StTTVincent
+Dominica Guadeloupe Martinique StTTKittsTT&TTNevis
+DominicanTTRepublic TurksTTandTTCaicos NodeID39 NodeID56
+Ecuador NodeID37
+ElTTSalvador NodeID63
+Grenada NodeID24 TrinidadTTandTTTobago
+Guadeloupe Antigua Dominica
+Guatemala NodeID28 NodeID63
+Guyana NodeID35
+Honduras NodeID60 NodeID67
+Jamaica NodeID39 NodeID41
+Martinique Dominica NodeID22
+Mexico Belize NodeID15
+Nicaragua CostaTTRica NodeID69
+NodeID0 NodeID1 NodeID27
+NodeID1 NodeID0 NodeID34 NodeID37 Columbia NodeID7
+NodeID13 NodeID29 NodeID14 NodeID31
+NodeID14 NodeID13
+NodeID15 Mexico NodeID26
+NodeID17 TurksTTandTTCaicos NodeID58
+NodeID22 Martinique NodeID24 StTTCroix Barbados
+NodeID24 NodeID22 Grenada
+NodeID26 NodeID15 NodeID31
+NodeID27 NodeID0 Panama NodeID9
+NodeID28 Guatemala Belize NodeID67
+NodeID29 NodeID13 NodeID67 NodeID46
+NodeID31 NodeID13 NodeID26 NodeID49 NodeID44
+NodeID32 NodeID59 NodeID44
+NodeID33 NodeID49 USA NodeID45
+NodeID34 NodeID1 Panama
+NodeID35 Suriname Guyana TrinidadTTandTTTobago
+NodeID37 NodeID1 Ecuador
+NodeID38 Columbia NodeID41 USA
+NodeID39 Jamaica DominicanTTRepublic
+NodeID41 NodeID38 Jamaica
+NodeID44 NodeID31 NodeID32 NodeID59 NodeID45
+NodeID45 Bahamas NodeID33 NodeID44 NodeID49
+NodeID46 NodeID9 NodeID29 CaymanTTIslands
+NodeID49 NodeID31 NodeID33 NodeID45
+NodeID50 NodeID8 PuertoTTRico StTTCroix
+NodeID56 DominicanTTRepublic PuertoTTRico
+NodeID58 NodeID17 NodeID59
+NodeID59 Bahamas NodeID32 NodeID44 NodeID58
+NodeID60 Honduras NodeID69
+NodeID62 NodeID63
+NodeID63 NodeID62 ElTTSalvador Guatemala
+NodeID67 NodeID28 NodeID29 Honduras
+NodeID69 NodeID60 Nicaragua
+NodeID7 NodeID1 Venezuela
+NodeID8 StTTMartin NodeID50 StTTCroix
+NodeID9 CostaTTRica NodeID27 NodeID46
+Panama CostaTTRica NodeID27 NodeID34
+PeerCaymanTTIslands_0 CaymanTTIslands
+PuertoTTRico Curacao StTTMartin NodeID50 NodeID56
+StTTCroix NodeID8 NodeID22 NodeID50
+StTTKittsTT&TTNevis Antigua Dominica StTTMartin
+StTTMartin NodeID8 StTTKittsTT&TTNevis PuertoTTRico
+StTTVincent Curacao TrinidadTTandTTTobago
+Suriname NodeID35
+TrinidadTTandTTTobago StTTVincent Grenada NodeID35
+TurksTTandTTCaicos NodeID17 DominicanTTRepublic
+USA NodeID33 NodeID38
+Venezuela Curacao NodeID7

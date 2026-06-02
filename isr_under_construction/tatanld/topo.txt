@@ -1,0 +1,146 @@
+Agra Gwalior Mathura
+Ahmedabad Udaipur Himmatnagar Anand Ratlam Godhra
+Ahmednagar Solapur Aurangabad Nasik Pune
+Ajmer Jaipur
+Akola Jalgaon
+Allahabad Fatehpur Rewa Jhansi
+Allepey Coimbatore Thirussur Kottayem
+Ambala Chandigarh Karnal
+Amravati Nagpur Buldhana
+Amritsar KotTTkapura Pathankot
+Anand Gandhinagar Ahmedabad
+Asansol Bokaro Dhanbad
+Aurangabad Nanded Ahmednagar Jalgaon
+Bangalore Torangallu Erode Salem NodeID70 Kolar Mysore
+Bareilly Sitapur Moradabad
+Baroda Bharuch Godhra
+Belgaum Bellary Hubli Solapur Panjim Kolhapur
+Bellary Torangallu Belgaum
+Bhandara Raipur Nagpur
+Bharuch Surat Baroda
+Bhatinda TalwandiTTBahi
+Bhilwara Udaipur Ratlam Jaipur Tonk
+Bhopal Ujjain Rajgarh
+Bhubaneshwar Kharagpur Dhenkanal
+Bokaro Dhanbad Asansol Hazaribagh Jamshedpur
+Buldhana Amravati Jalgaon
+Callicut Mangalore Mysore
+Cannonore Mangalore Kozhikode
+Chandigarh Ludhiana Ambala
+Chandrapur Wardha Hyderabad
+Chennai Tirupati
+Chidambaram Palladam Pondicherry
+Chitradurg Mangalore
+Coimbatore Sivakasi Trichy Tirupur Allepey
+Damoh Jabalpur Sagar
+Dehradun Lucknow
+Delhi Gurgaon Noida Jaipur Sonipat Mathura Ghaziabad
+Dhanbad Bokaro Asansol
+Dhar Khandwa Ujjain Indore
+Dhenkanal Raipur Bhubaneshwar Visakhapatnam
+Dhulia Jalgaon Nasik
+Ernakulam Kollam Kottayem Thiruvalla
+Erode Bangalore Tirupur
+Fatehpur Kanpur Allahabad
+Gandhinagar Himmatnagar Anand
+Gaya Patna Hazaribagh
+Ghaziabad Meerut Delhi
+Goa Hubli Mangalore Panjim
+Godhra Ahmedabad Baroda
+Gulbarga Solapur Hyderabad
+Gurgaon Rohtak Delhi
+Gwalior Jhansi Rajgarh Agra
+Hadiagarh Sitapur Lucknow
+Hassan Hubli NodeID70 NodeID118
+Hazaribagh Bokaro Gaya Ranchi
+Himmatnagar Gandhinagar Ahmedabad
+Hoshiarpur Pathankot Jalandhar
+Hubli Goa Belgaum Hassan
+Hyderabad Raichur Gulbarga Vijayavada Chandrapur Sangareddy
+Indore Jabalpur Dhar Ujjain Vidisha Rajgarh
+Jabalpur Satna Raipur Damoh Indore
+Jaipur Delhi Ajmer Bhilwara Tonk
+Jalandhar Hoshiarpur Ludhiana
+Jalgaon Buldhana Akola Khandwa Aurangabad Dhulia Surat
+Jamshedpur Bokaro Rourkela
+Jaunpur Varanasi Lucknow
+Jhansi Allahabad Satna Gwalior
+Kanchipuram Pondicherry Tirupati
+Kanpur Lucknow Fatehpur
+Kanyakumari Tirunelveli Tiruchendur Trivandrum
+Karnal Sonipat Ambala
+Khandwa Jalgaon Dhar
+Kharagpur Kolkata Bhubaneshwar
+Kolar Bangalore Tirupati
+Kolhapur Belgaum Satara Sangli
+Kolkata Kharagpur Ranchi
+Kollam Trivandrum Ernakulam
+KotTTkapura Amritsar TalwandiTTBahi
+Kota Rajgarh Tonk
+Kottayem Ernakulam Allepey
+Kozhikode Cannonore Palghat
+Lucknow Hadiagarh Dehradun Jaunpur Kanpur
+Ludhiana Chandigarh TalwandiTTBahi Jalandhar Patiala
+Madural Tirunelveli Sivakasi
+Mangalore Goa Chitradurg Cannonore Callicut NodeID118
+Mathura Delhi Agra
+Meerut Moradabad Ghaziabad
+Moradabad Meerut Bareilly
+Mumbai Pune Nasik Valsad
+Mysore Bangalore Callicut
+Nagpur Bhandara Amravati Wardha
+Nanded Aurangabad Sangareddy
+Nasik Ahmednagar Dhulia Mumbai
+Nellore Ongole Tirupati
+NodeID118 Mangalore Hassan NodeID70
+NodeID70 Bangalore Hassan NodeID118
+Noida Delhi
+Ongole Vijayavada Nellore Visakhapatnam
+Palghat Thirussur Kozhikode
+Palladam Trichy Chidambaram
+Panjim Goa Belgaum
+Pathankot Hoshiarpur Amritsar
+Patiala Rohtak Ludhiana
+Patna Varanasi Gaya
+PeerRewa_0 Rewa
+Pondicherry Kanchipuram Salem Chidambaram
+Pune Ahmednagar Satara Mumbai
+Raichur Torangallu Hyderabad
+Raipur Rourkela Jabalpur Bhandara Dhenkanal
+Rajgarh Sagar Bhopal Indore Gwalior Kota
+Ramanathapuram Sivakasi
+Ranchi Hazaribagh Kolkata
+Ratlam Ujjain Ahmedabad Bhilwara
+Rewa Allahabad Satna PeerRewa_0
+Rohtak Gurgaon Patiala Sonipat
+Rourkela Jamshedpur Raipur
+Sagar Damoh Rajgarh Vidisha
+Salem Bangalore Pondicherry
+Sangareddy Nanded Hyderabad
+Sangli Satara Kolhapur
+Satara Pune Kolhapur Sangli
+Satna Rewa Jhansi Jabalpur
+Sitapur Hadiagarh Bareilly
+Sivakasi Coimbatore Tirunelveli Trichy Madural Ramanathapuram
+Solapur Belgaum Gulbarga Ahmednagar
+Sonipat Rohtak Delhi Karnal
+Surat Jalgaon Valsad Bharuch
+TalwandiTTBahi Bhatinda KotTTkapura Ludhiana
+Thirussur Allepey Palghat
+Thiruvalla Ernakulam
+Tiruchendur Tirunelveli Kanyakumari
+Tirunelveli Madural Sivakasi Tiruchendur Kanyakumari
+Tirupati Chennai Kanchipuram Kolar Nellore
+Tirupur Coimbatore Erode
+Tonk Kota Bhilwara Jaipur
+Torangallu Raichur Bangalore Bellary
+Trichy Coimbatore Sivakasi Palladam
+Trivandrum Kollam Kanyakumari
+Udaipur Ahmedabad Bhilwara
+Ujjain Dhar Indore Bhopal Ratlam
+Valsad Surat Mumbai
+Varanasi Jaunpur Patna
+Vidisha Sagar Indore
+Vijayavada Ongole Hyderabad
+Visakhapatnam Ongole Dhenkanal
+Wardha Nagpur Chandrapur

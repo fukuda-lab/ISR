@@ -1,0 +1,9 @@
+ip ospf cost 1
+description "To NodeID34"
+--------------------
+ip ospf cost 1
+description "To NodeID27"
+--------------------
+ip ospf cost 1
+description "To CostaRica"
+--------------------

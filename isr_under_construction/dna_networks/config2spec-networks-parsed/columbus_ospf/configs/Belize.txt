@@ -1,0 +1,6 @@
+ip ospf cost 1
+description "To NodeID28"
+--------------------
+ip ospf cost 1
+description "To Mexico"
+--------------------

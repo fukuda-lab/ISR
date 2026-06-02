@@ -1,0 +1,9 @@
+ip ospf cost 1
+description "To Florence"
+--------------------
+ip ospf cost 1
+description "To Wilmington"
+--------------------
+ip ospf cost 1
+description "To Georgetown"
+--------------------

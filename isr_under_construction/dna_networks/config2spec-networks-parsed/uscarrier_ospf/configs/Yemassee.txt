@@ -1,0 +1,12 @@
+ip ospf cost 1
+description "To Savannah"
+--------------------
+ip ospf cost 1
+description "To CharlestonID102"
+--------------------
+ip ospf cost 1
+description "To Beaufort"
+--------------------
+ip ospf cost 1
+description "To Walterboro"
+--------------------

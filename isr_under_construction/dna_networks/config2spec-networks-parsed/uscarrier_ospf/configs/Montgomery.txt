@@ -1,0 +1,12 @@
+ip ospf cost 1
+description "To Mobile"
+--------------------
+ip ospf cost 1
+description "To Columbus"
+--------------------
+ip ospf cost 1
+description "To Dothan"
+--------------------
+ip ospf cost 1
+description "To Birmingham"
+--------------------

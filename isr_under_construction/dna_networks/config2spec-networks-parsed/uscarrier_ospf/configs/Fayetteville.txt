@@ -1,0 +1,15 @@
+ip ospf cost 1
+description "To RockyMountID11"
+--------------------
+ip ospf cost 1
+description "To Wilmington"
+--------------------
+ip ospf cost 1
+description "To TarHeel"
+--------------------
+ip ospf cost 1
+description "To Raleigh"
+--------------------
+ip ospf cost 1
+description "To Jacksonville"
+--------------------

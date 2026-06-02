@@ -1,0 +1,35 @@
+Ajdovscina NovaTTGorica Divaca
+Bled Kranj Tolmin
+Celje Velenje Lasko Kamnik SlovenskaTTBistrica
+Divaca Portoroz Senozece Ajdovscina Koper
+Dravograd SlovenjTTGradec Velenje Maribor RavneTTnaTTKoroskem
+GornjaTTRadgona Radenci Maribor
+Izola Portoroz Koper
+Jesenice Kranj
+Kamnik Celje Ljubljana
+Koper Kranj Ljubljana Divaca Izola
+Kovevje NovoTTMesto Ljubljana
+Kranj Jesenice Koper Bled Ljubljana
+Krsko RogasjaTTSlatina NovoTTMesto
+Lasko Trbovlje Celje Maribor Ljubljana
+Ljubljana Trbovlje Lasko Kranj NovaTTGorica Postojna Kovevje Kamnik Koper Maribor
+Ljutomer MurskaTTSobota Ormoz PeerLjutomer_0
+Maribor Lasko Ljubljana GornjaTTRadgona Ptuj Dravograd SlovenskaTTBistrica
+MurskaTTSobota Radenci Ljutomer
+NovaTTGorica Ljubljana Tolmin Ajdovscina
+NovoTTMesto Krsko Kovevje
+Ormoz Ljutomer Ptuj
+PeerLjutomer_0 Ljutomer
+Portoroz Divaca Izola
+Postojna Ljubljana Senozece
+Ptuj RogasjaTTSlatina Ormoz Maribor
+Radenci GornjaTTRadgona MurskaTTSobota
+RavneTTnaTTKoroskem Dravograd
+RogasjaTTSlatina Krsko Ptuj
+Senozece Sezana Divaca Postojna
+Sezana Senozece
+SlovenjTTGradec Dravograd Velenje
+SlovenskaTTBistrica Celje Maribor
+Tolmin Bled NovaTTGorica
+Trbovlje Lasko Ljubljana
+Velenje Celje SlovenjTTGradec Dravograd

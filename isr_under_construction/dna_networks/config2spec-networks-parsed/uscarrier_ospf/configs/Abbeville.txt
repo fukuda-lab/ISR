@@ -1,0 +1,9 @@
+ip ospf cost 1
+description "To HickoryTavern"
+--------------------
+ip ospf cost 1
+description "To Chester"
+--------------------
+ip ospf cost 1
+description "To Greenwood"
+--------------------

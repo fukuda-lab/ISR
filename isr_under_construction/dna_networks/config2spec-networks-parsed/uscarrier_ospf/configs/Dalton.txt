@@ -1,0 +1,9 @@
+ip ospf cost 1
+description "To Ringgold"
+--------------------
+ip ospf cost 1
+description "To Chattanooga"
+--------------------
+ip ospf cost 1
+description "To Ellijay"
+--------------------

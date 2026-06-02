@@ -1,0 +1,6 @@
+ip ospf cost 1
+description "To LakeCity"
+--------------------
+ip ospf cost 1
+description "To Nahunta"
+--------------------

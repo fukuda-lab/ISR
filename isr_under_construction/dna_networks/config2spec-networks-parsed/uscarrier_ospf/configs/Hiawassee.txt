@@ -1,0 +1,6 @@
+ip ospf cost 1
+description "To Franklin"
+--------------------
+ip ospf cost 1
+description "To YoungHarris"
+--------------------

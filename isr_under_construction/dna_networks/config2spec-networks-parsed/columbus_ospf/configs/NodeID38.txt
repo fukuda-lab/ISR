@@ -1,0 +1,9 @@
+ip ospf cost 1
+description "To Columbia"
+--------------------
+ip ospf cost 1
+description "To USA"
+--------------------
+ip ospf cost 1
+description "To NodeID41"
+--------------------

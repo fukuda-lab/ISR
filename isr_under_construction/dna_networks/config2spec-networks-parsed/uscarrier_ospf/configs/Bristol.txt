@@ -1,0 +1,9 @@
+ip ospf cost 1
+description "To Abingdon"
+--------------------
+ip ospf cost 1
+description "To Kingsport"
+--------------------
+ip ospf cost 1
+description "To JohnsonCity"
+--------------------

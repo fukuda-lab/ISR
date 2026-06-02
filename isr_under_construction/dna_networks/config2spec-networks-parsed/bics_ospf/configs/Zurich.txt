@@ -1,0 +1,15 @@
+ip ospf cost 1
+description "To Geneva"
+--------------------
+ip ospf cost 1
+description "To Vaduz"
+--------------------
+ip ospf cost 2
+description "To Milan"
+--------------------
+ip ospf cost 1
+description "To Roma"
+--------------------
+ip ospf cost 2
+description "To Frankfurt"
+--------------------

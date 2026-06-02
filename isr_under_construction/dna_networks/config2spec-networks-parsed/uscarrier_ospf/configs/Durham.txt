@@ -1,0 +1,6 @@
+ip ospf cost 1
+description "To Burlington"
+--------------------
+ip ospf cost 1
+description "To Raleigh"
+--------------------

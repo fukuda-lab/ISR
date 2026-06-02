@@ -1,0 +1,9 @@
+ip ospf cost 1
+description "To PuertoRico"
+--------------------
+ip ospf cost 1
+description "To StKittsNevis"
+--------------------
+ip ospf cost 1
+description "To NodeID8"
+--------------------

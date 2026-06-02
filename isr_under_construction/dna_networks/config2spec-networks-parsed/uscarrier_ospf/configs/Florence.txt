@@ -1,0 +1,12 @@
+ip ospf cost 1
+description "To Bethune"
+--------------------
+ip ospf cost 1
+description "To Sumter"
+--------------------
+ip ospf cost 1
+description "To TarHeel"
+--------------------
+ip ospf cost 1
+description "To MyrtleBeach"
+--------------------

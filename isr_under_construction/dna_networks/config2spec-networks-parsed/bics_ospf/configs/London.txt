@@ -1,0 +1,15 @@
+ip ospf cost 1
+description "To Paris"
+--------------------
+ip ospf cost 1
+description "To Dublin"
+--------------------
+ip ospf cost 1
+description "To Lisbon"
+--------------------
+ip ospf cost 1
+description "To Amsterdam"
+--------------------
+ip ospf cost 2
+description "To Brussels"
+--------------------

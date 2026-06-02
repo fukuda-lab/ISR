@@ -1,0 +1,9 @@
+ip ospf cost 1
+description "To Blountstown"
+--------------------
+ip ospf cost 1
+description "To Crestview"
+--------------------
+ip ospf cost 1
+description "To Dothan"
+--------------------

@@ -1,0 +1,9 @@
+ip ospf cost 5
+description "To Warsaw"
+--------------------
+ip ospf cost 4
+description "To Frankfurt"
+--------------------
+ip ospf cost 1
+description "To Bratislava"
+--------------------

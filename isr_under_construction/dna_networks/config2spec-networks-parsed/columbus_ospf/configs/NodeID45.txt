@@ -1,0 +1,12 @@
+ip ospf cost 1
+description "To Bahamas"
+--------------------
+ip ospf cost 1
+description "To NodeID44"
+--------------------
+ip ospf cost 1
+description "To NodeID33"
+--------------------
+ip ospf cost 1
+description "To NodeID49"
+--------------------

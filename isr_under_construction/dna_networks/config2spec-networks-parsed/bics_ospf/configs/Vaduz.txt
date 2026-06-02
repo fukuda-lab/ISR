@@ -1,0 +1,3 @@
+ip ospf cost 1
+description "To Zurich"
+--------------------

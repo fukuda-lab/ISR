@@ -1,0 +1,198 @@
+Albany Buffalo NewTTYork Montreal Worcester
+Albuquerque ElTTPaso ColoradoTTSprings
+Alicante Murcia Valencia PeerAlicante_0
+Amsterdam Dusseldorf Antwerp Cambridge
+Antwerp Amsterdam Brussels
+Arezzo Rome Florence
+Atlanta Nashville Jacksonville Charlotte NodeID150
+Austin SanTTAntonio Houston
+Avila Bilbao Coimbra Madrid
+Badajoz Lisbon Sevilla
+Balchik Constanta Varna
+Baltimore Philadelphia Washington
+Barcelona NodeID171 Valencia
+Basel Bern Zurich
+Berlin Dresden Hamburg
+Bern Geneva Basel
+Bilbao Santander Logrono Avila SanTTSebastian
+Birmingham Nashville NodeID150
+BocaTTRaton Miami
+Boise SaltTTLakeTTCity Portland
+Bologna PaduaVenice Florence
+Bordeaux SanTTSebastian Toulouse Poiters
+Boston LiverpoolTTSouthport Worcester Providence London
+Bratislava Bucharest Vienna Brno Kiev Budapest
+Bremen Hamburg Munster
+Brno Bratislava Prague Krakow
+Brussels London Paris Antwerp
+Bucharest Bratislava NodeID176 Galati Constanta NodeID175
+Budapest Timisoara Bratislava
+Buffalo Hamilton Cleveland Albany
+Burgas KapitanTTAndreevo Varna
+Caen Rennes Rouen
+Cambridge Leeds Amsterdam
+Charlotte Atlanta NodeID148
+Chicago Milwaukee SouthTTBend DesTTMoines StTTLouis
+Cincinnati Cleveland
+Cleveland Cincinnati Toledo Dayton Columbus Pittsburgh Buffalo
+Coimbra Avila Lisbon Porto
+Cologne Dusseldorf
+ColoradoTTSprings Albuquerque Denver
+Columbus Indianapolis Cleveland
+Constanta Bucharest Balchik
+Copenhagen Oslo Malmo Hamburg
+Dallas Tulsa FortTTWorth Houston
+Dayton Cleveland
+Denver KansasTTCity SaltTTLakeTTCity ColoradoTTSprings
+DesTTMoines Minneapolis Chicago Omaha
+Detroit Toledo
+Dijon Lyon
+Dortmund Essen Munster
+Dresden Nuremberg Prague Berlin
+Dublin Manchester NodeID147 London
+Dusseldorf Frankfurt Cologne Amsterdam Essen
+Edinburgh Newcastle Glasgow
+ElTTPaso SanTTAntonio Phoenix Albuquerque
+Essen Dusseldorf Dortmund
+Florence Arezzo Bologna
+FortTTWorth OklahomaTTCity Dallas
+Frankfurt MainzWiesbaden Mannheim Philadelphia Dusseldorf Strasbourg
+Galati Bucharest Odessa
+Geneva Grenoble Bern
+Genoa Rome Milan NodeID172
+Gijon Santander Leon
+Glasgow Manchester Edinburgh
+Granada Murcia Malaga
+Greensboro NodeID148 Raleigh
+Grenoble Geneva Lyon
+Guadalajara Queretaro
+Hamburg Copenhagen Berlin Bremen
+Hamilton Buffalo Toronto
+Harrisburg Philadelphia Pittsburgh Washington
+Helsinki Stockholm Tallinn
+Herndon Washington
+Houston Austin Dallas NodeID144
+Indianapolis SouthTTBend Louisville Columbus
+Jackson NewTTOrleans Memphis NodeID149
+Jacksonville Atlanta Orlando
+KansasTTCity Tulsa Denver StTTLouis
+KapitanTTAndreevo Burgas NodeID175
+Kharkiv Kiev
+Kiev Bratislava Odessa Kharkiv
+Krakow Warsaw Brno
+Laredo SanTTAntonio McAllen
+LasTTVegas LosTTAngeles
+Leeds Newcastle LiverpoolTTSouthport Cambridge
+Leon Gijon Vigo
+Lille London Paris
+Lisbon Badajoz Coimbra
+LiverpoolTTSouthport Leeds Boston Montreal
+Ljubljana Zagreb NodeID174
+Logrono Zaragoza Bilbao
+London Manchester Boston NewTTYork Dublin Montreal Lille Brussels
+LosTTAngeles SantaTTClara LasTTVegas OrangeTTCounty
+Louisville Nashville Indianapolis
+Luxembourg MainzWiesbaden NodeID173
+Lyon Grenoble Marseille Dijon Paris
+Madrid Avila Valencia
+MainzWiesbaden Luxembourg Frankfurt
+Malaga Sevilla Granada
+Malmo Stockholm Copenhagen
+Manchester Glasgow Dublin NodeID147 London
+Mannheim Stuttgart Frankfurt
+Marseille Lyon Montpellier Sophia
+McAllen Laredo Monterrey
+Memphis Nashville Jackson Tulsa
+MexicoTTCity Queretaro
+Miami BocaTTRaton Tampa Orlando
+Milan Genoa PaduaVenice Zurich
+Milwaukee Minneapolis Chicago
+Minneapolis Milwaukee DesTTMoines
+Monterrey McAllen Queretaro
+Montpellier Marseille NodeID171
+Montreal Toronto LiverpoolTTSouthport London Albany
+Munich Stuttgart Nuremberg Vienna
+Munster Dortmund Bremen
+Murcia Alicante Granada
+Nantes Rennes Poiters
+Nashville Louisville Birmingham Memphis Atlanta
+NewTTOrleans NodeID144 Tampa Jackson
+NewTTYork Stamford London Albany Paris
+Newark Philadelphia
+Newcastle Leeds Edinburgh
+Nice NodeID172
+NodeID144 NewTTOrleans Houston NodeID149
+NodeID147 Manchester Slough Dublin
+NodeID148 Charlotte Greensboro Washington
+NodeID149 Jackson NodeID144 NodeID150
+NodeID150 Atlanta Birmingham NodeID149
+NodeID171 Barcelona Toulouse Montpellier
+NodeID172 Nice Sophia Genoa
+NodeID173 Reims Luxembourg Strasbourg
+NodeID174 Vienna PaduaVenice Ljubljana
+NodeID175 Bucharest Sofia KapitanTTAndreevo
+NodeID176 Timisoara Bucharest Sofia
+Nuremberg Dresden Munich
+Oakland SanTTFrancisco Sacramento
+Odessa Galati Kiev
+OklahomaTTCity Tulsa FortTTWorth
+Omaha DesTTMoines
+OrangeTTCounty LosTTAngeles SanTTDiego
+Orlando Miami Tampa Jacksonville
+Oslo Stockholm Copenhagen
+PaduaVenice Milan NodeID174 Bologna
+Paris Tours Rouen Reims Lyon Washington NewTTYork Slough Lille Brussels
+PeerAlicante_0 Alicante
+Philadelphia Frankfurt Baltimore Newark Harrisburg
+Phoenix SanTTDiego ElTTPaso
+Pittsburgh Cleveland Harrisburg
+Poiters Tours Nantes Bordeaux
+Portland Sacramento Boise Seattle
+Porto Vigo Coimbra
+Prague Brno Dresden
+Providence Boston Stamford
+Queretaro Monterrey MexicoTTCity Guadalajara
+Raleigh Greensboro
+Reims NodeID173 Paris
+Rennes Nantes Caen
+Rome Arezzo Genoa
+Rotterdam Slough
+Rouen Caen Paris
+Sacramento Oakland SaltTTLakeTTCity Portland
+SaltTTLakeTTCity Sacramento Boise Denver
+SanTTAntonio Austin ElTTPaso Laredo
+SanTTDiego OrangeTTCounty Phoenix
+SanTTFrancisco SantaTTClara Oakland
+SanTTSebastian Bilbao Bordeaux
+SantaTTClara LosTTAngeles SanTTFrancisco
+Santander Gijon Bilbao
+Seattle Portland
+Sevilla Badajoz Malaga
+Slough NodeID147 Rotterdam Paris
+Sofia NodeID176 NodeID175
+Sophia Marseille NodeID172
+SouthTTBend Toledo Chicago Indianapolis
+StTTLouis Chicago KansasTTCity
+Stamford WhiteTTPlains Providence NewTTYork
+Stockholm Oslo Malmo Helsinki
+Strasbourg Frankfurt NodeID173
+Stuttgart Mannheim Munich Zurich
+Tallinn Helsinki
+Tampa NewTTOrleans Miami Orlando
+Timisoara NodeID176 Budapest
+Toledo SouthTTBend Detroit Cleveland
+Toronto Hamilton Montreal
+Toulouse Bordeaux NodeID171
+Tours Paris Poiters
+Tulsa KansasTTCity OklahomaTTCity Dallas Memphis
+Valencia Barcelona Alicante Madrid
+Varna Balchik Burgas
+Vienna Munich Bratislava NodeID174
+Vigo Porto Leon
+Warsaw Krakow
+Washington Baltimore NodeID148 Harrisburg Paris Herndon
+WhiteTTPlains Stamford
+Worcester Boston Albany
+Zagreb Ljubljana
+Zaragoza Logrono
+Zurich Stuttgart Basel Milan

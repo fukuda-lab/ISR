@@ -1,0 +1,9 @@
+ip ospf cost 1
+description "To TurksandCaicos"
+--------------------
+ip ospf cost 1
+description "To NodeID56"
+--------------------
+ip ospf cost 1
+description "To NodeID39"
+--------------------

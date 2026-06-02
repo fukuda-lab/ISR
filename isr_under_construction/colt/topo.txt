@@ -1,0 +1,154 @@
+Aarhus Copenhagen Hamburg Kolding
+Almere Amsterdam
+Amsterdam Dusseldorf Almere Hilversum Hoofddorp
+Anderlecht Brussels
+Antwerp TheTTHague Brussels
+Barcelona NodeID79 Valencia
+Bari Rome
+Basel NodeID73 Zurich Strasbourg
+Bergamo Brescia Milan
+Berlin Rostock Potsdam Dresden Warsaw NodeID60
+Bern NodeID73
+Biel_Bienne NodeID73
+Biella Milan
+Birmingham Manchester Bristol
+Boblingen Stuttgart
+Bologna Firenze Modena
+Bordeaux Nantes Toulouse Madrid
+Borgomanero Milan
+Boston London Chicago
+Bratislava Vienna Budapest
+Breda DenTTBosch
+Bremen Hamburg
+Brescia Bergamo Verona
+Brindisi Rome
+Bristol Dublin Birmingham Reading
+Brussels Antwerp Charleroi Liege Anderlecht Mons Leuven Luxembourg Evere Ghent Kortnijk London
+Bucharest Budapest
+Budapest Vienna Bratislava Bucharest
+Cagliari Rome
+Catania Rome
+Charleroi Brussels
+Chiasso Como Lugano
+Chicago Boston
+Cologne Dusseldorf Frankfurt
+Como Chiasso Milan
+Copenhagen Stockholm Gothenburg Hamburg Malmo Aarhus
+Cuneo Turin
+DenTTBosch Rotterdam Eindhoven Breda Utrecht
+Dijon Lyon
+Dortmund Wuppertal Essen
+Dresden Leipzig Berlin Prague
+Dublin London Bristol
+Dusseldorf Cologne Essen Amsterdam Neuss Wuppertal
+Eindhoven DenTTBosch
+Erding Munich
+Essen Dusseldorf Hamburg Dortmund PeerEssen_0
+Esslingen Stuttgart
+Evere Brussels
+Firenze Genova Rome Bologna
+Frankfurt Mannheim Cologne
+Geneve Nyon Lyon
+Genova Milan Firenze
+Ghent Lille Brussels Ostend
+Gothenburg Copenhagen Oslo
+Graz Vienna Klagenfurt
+Grenoble Lyon
+Hamburg Rostock Hannover Copenhagen Essen Aarhus Kolding Bremen
+Hannover Hamburg NodeID60
+Helsinki Stockholm
+Hilversum Utrecht Amsterdam
+Hoofddorp TheTTHague Amsterdam
+Innsbruck Salzburg
+Karlsruhe Mannheim Strasbourg Stuttgart
+Klagenfurt Graz
+Kolding Hamburg Aarhus
+Kortnijk Brussels
+Krakov Prague Warsaw
+Lausanne NodeID73 Nyon
+Leipzig Nuremberg Dresden
+Leuven Brussels
+Liege Brussels
+Lille NodeID62 Ghent Paris
+Linz StTTPollen Vienna Salzburg
+Lisbon Sintra Porto Madrid
+Livorno Milan
+London Boston Newark NewTTYork NodeID62 Dublin Manchester Reading Brussels
+Lucerne Zug Lugano
+Lugano Lucerne Chiasso
+Luxembourg Brussels
+Lyon Marseille Grenoble Dijon Paris Geneve
+Madrid Lisbon Valencia Bordeaux
+Magdemburg NodeID60
+Malmo Copenhagen
+Manchester London Birmingham
+Mannheim Frankfurt Karlsruhe
+Marseille Nice Turin Lyon Montpellier
+Milan Piacenza Genova Livorno Rimini Parma Varese Como Borgomanero Novara Biella Treviso Trento ReggioTTEmilia Bergamo Monza Trieste Vicenza Turin
+Modena ReggioTTEmilia Bologna
+Mons Brussels
+Montpellier NodeID79 Marseille
+Monza Milan
+Munich Nuremberg Erding Vienna Stuttgart
+Nantes Bordeaux Rennes
+Napoli Rome
+Neuss Dusseldorf
+NewTTYork Newark London
+Newark Paris London NewTTYork
+Nice Marseille
+NodeID60 Hannover Magdemburg Berlin
+NodeID62 Lille London Ostend
+NodeID73 Lausanne Biel_Bienne Bern Basel
+NodeID79 Barcelona Toulouse Montpellier
+Novara Milan
+Nuremberg Leipzig Munich
+Nyon Lausanne Geneve
+Oslo Stockholm Gothenburg
+Ostend NodeID62 Ghent
+Padova Rome Venezia Verona
+Palermo Rome
+Paris Newark Lille Strasbourg Lyon Tours Rouen
+Parma Milan
+PeerEssen_0 Essen
+Pfaffikon StTTGallen Winterthur
+Piacenza Milan
+Poitiers Tours
+Porto Lisbon
+Potsdam Berlin
+Prague Dresden Krakov Vienna
+Reading London Bristol
+ReggioTTEmilia Modena Milan
+Rennes Nantes Rouen
+Rimini Milan
+Rome Catania Sassari Bari Palermo Cagliari Brindisi Firenze Padova Napoli
+Rostock Berlin Hamburg
+Rotterdam TheTTHague DenTTBosch
+Rouen Paris Rennes
+Salzburg Linz Innsbruck
+Sassari Rome
+Schaffhausen StTTGallen Zurich
+Sintra Lisbon
+StTTGallen Pfaffikon Zurich Schaffhausen
+StTTPollen Linz
+Stockholm Copenhagen Helsinki Oslo
+Strasbourg Karlsruhe Basel Paris
+Stuttgart Munich Karlsruhe Boblingen Esslingen
+TheTTHague Antwerp Rotterdam Hoofddorp
+Toulouse NodeID79 Bordeaux
+Tours Paris Poitiers
+Trento Milan
+Treviso Milan
+Trieste Milan
+Turin Marseille Cuneo Milan
+Utrecht DenTTBosch Hilversum
+Valencia Barcelona Madrid
+Varese Milan
+Venezia Padova
+Verona Padova Brescia
+Vicenza Milan
+Vienna Linz Graz Bratislava Budapest Prague Munich
+Warsaw Krakov Berlin
+Winterthur Pfaffikon Zurich
+Wuppertal Dusseldorf Dortmund
+Zug Lucerne Zurich
+Zurich StTTGallen Winterthur Schaffhausen Basel Zug

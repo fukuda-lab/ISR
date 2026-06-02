@@ -1,0 +1,34 @@
+Amsterdam Rotterdam Brussels Frankfurt London
+Athens Istanbul Sofia
+Barcelona Madrid Marseille
+Basel Strasbourg Geneva
+Bratislava Vienna Praha Budapest
+Brussels Rotterdam Luxembourg Frankfurt Amsterdam London Paris
+Bucharest Budapest Kiev Istanbul
+Budapest Bratislava Bucharest Sofia Zagreb
+Dublin London
+Frankfurt Vienna Praha Strasbourg Zurich Brussels Amsterdam Stockholm Warsaw
+Geneva Zurich Basel Paris Lyon
+Istanbul Bucharest Athens
+Kiev Bucharest Warsaw
+Lisbon London PeerLisbon_0
+Ljubjana Zagreb
+London Brussels Amsterdam Dublin Lisbon Paris
+Luxembourg Strasbourg Brussels
+Lyon Geneva Paris Marseille
+Madrid Paris Barcelona
+Marseille Milan Barcelona Lyon
+Milan Vienna Roma Zurich Marseille
+Paris Brussels Geneva London Lyon Madrid
+PeerLisbon_0 Lisbon
+Praha Bratislava Warsaw Frankfurt
+Roma Milan Zurich
+Rotterdam Amsterdam Brussels
+Sofia Budapest Athens
+Stockholm Frankfurt
+Strasbourg Basel Frankfurt Luxembourg
+Vaduz Zurich
+Vienna Bratislava Milan Frankfurt
+Warsaw Praha Frankfurt Kiev
+Zagreb Budapest Ljubjana
+Zurich Roma Vaduz Milan Frankfurt Geneva

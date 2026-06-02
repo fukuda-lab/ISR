@@ -1,0 +1,12 @@
+ip ospf cost 1
+description "To Courtney"
+--------------------
+ip ospf cost 1
+description "To Salisbury"
+--------------------
+ip ospf cost 1
+description "To Boone"
+--------------------
+ip ospf cost 1
+description "To HighPoint"
+--------------------

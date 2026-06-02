@@ -1,0 +1,6 @@
+ip ospf cost 1
+description "To Maretta"
+--------------------
+ip ospf cost 1
+description "To Calhoun"
+--------------------

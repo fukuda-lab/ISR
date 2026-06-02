@@ -1,0 +1,9 @@
+ip ospf cost 1
+description "To Guatemala"
+--------------------
+ip ospf cost 1
+description "To NodeID62"
+--------------------
+ip ospf cost 1
+description "To ElSalvador"
+--------------------

@@ -1,0 +1,6 @@
+ip ospf cost 1
+description "To Tallahassee"
+--------------------
+ip ospf cost 1
+description "To Macon"
+--------------------

@@ -1,0 +1,9 @@
+ip ospf cost 1
+description "To NodeID82"
+--------------------
+ip ospf cost 1
+description "To Florence"
+--------------------
+ip ospf cost 1
+description "To Columbia"
+--------------------

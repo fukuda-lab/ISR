@@ -1,0 +1,12 @@
+ip ospf cost 1
+description "To Anderson"
+--------------------
+ip ospf cost 1
+description "To Greenville"
+--------------------
+ip ospf cost 1
+description "To HickoryTavern"
+--------------------
+ip ospf cost 1
+description "To Toccoa"
+--------------------

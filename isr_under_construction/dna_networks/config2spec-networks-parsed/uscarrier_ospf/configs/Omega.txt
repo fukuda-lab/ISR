@@ -1,0 +1,12 @@
+ip ospf cost 1
+description "To Vadosta"
+--------------------
+ip ospf cost 1
+description "To Willacoochee"
+--------------------
+ip ospf cost 1
+description "To Tifton"
+--------------------
+ip ospf cost 1
+description "To Warwick"
+--------------------

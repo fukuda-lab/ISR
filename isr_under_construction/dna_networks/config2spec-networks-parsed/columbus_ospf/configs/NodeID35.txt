@@ -1,0 +1,9 @@
+ip ospf cost 1
+description "To TrinidadandTobago"
+--------------------
+ip ospf cost 1
+description "To Suriname"
+--------------------
+ip ospf cost 1
+description "To Guyana"
+--------------------

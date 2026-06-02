@@ -1,0 +1,12 @@
+ip ospf cost 1
+description "To NodeID45"
+--------------------
+ip ospf cost 1
+description "To NodeID32"
+--------------------
+ip ospf cost 3
+description "To NodeID59"
+--------------------
+ip ospf cost 1
+description "To NodeID31"
+--------------------

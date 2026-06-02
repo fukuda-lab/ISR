@@ -1,0 +1,70 @@
+Adazi Carnikava Riga
+Aizkroukle Viesite Jumprava
+Aizpute Riga
+Aloja Mazsalaca Pociems Limbazi
+Auce Dobele
+Baldone Riga
+Balvi Riga PeerBalvi_0
+Bauska Riga
+Broceni Saldus
+Carnikava Riga Adazi
+Cibla Ludza
+Daugapils Rezekne Riga Preili
+Dobele Auce Jelgava
+Eleja Platone
+GEANT2 Riga
+Grobina Liepaja
+Gulbene Riga
+Iecava Riga
+Ikskile Kegums Ogre Salaspils
+Jekabpils Viesite Livani
+Jelgava Platone Dobele Riga Kalnciems Livberze Ozolnieki
+Jumprava Aizkroukle Lielvarde
+Jurmala Riga
+Kalnciems Jelgava
+Kapsede Liepaja
+Karsava Riga Malnava
+Kegums Lielvarde Ikskile
+Kekava Riga
+Kraslava Riga
+Krimulda Sigulda
+Ledurga Sigulda
+Lielvarde Jumprava Kegums
+Liepaja Kapsede Riga Grobina
+Liepupe Salagriva Limbazi Sigulda
+Limbazi Vijkene Aloja Riga Liepupe
+Livani Jekabpils
+Livberze Jelgava
+Ludza Rezekne Zvigzdene Cibla Zilupe
+Malnava Karsava Pusmucova
+Mazsalaca Rujiena Aloja
+Ogre Ikskile
+Olaine Riga Ozolnieki
+Ozolnieki Olaine Jelgava
+PeerBalvi_0 Balvi
+Platone Vircava Jelgava Eleja
+Pociems Aloja
+Preili Riga Daugapils
+Pusmucova Malnava
+Ragona Sigulda
+Rezekne Ludza Riga Daugapils
+Riga Iecava Kraslava Baldone Saldus Vilani Gulbene Rujiena Limbazi Skriveri Valmiera Rezekne Carnikava Daugapils Liepaja Ulbroka Olaine Salaspils Bauska Jelgava Kekava GEANT2 Sigulda Jurmala Tukums Talsi Aizpute Adazi Preili Balvi Karsava
+Rujiena Mazsalaca Riga
+Salagriva Liepupe
+Salaspils Riga Ikskile
+Saldus Broceni Riga
+Sigulda Krimulda Liepupe Riga Ledurga Ragona Vangazi
+Skriveri Riga
+Strenci Valmiera
+Talsi Riga
+Tukums Riga Ventspits
+Ulbroka Riga
+Valmiera Strenci Riga
+Vangazi Sigulda
+Ventspits Tukums
+Viesite Jekabpils Aizkroukle
+Vijkene Limbazi
+Vilani Riga
+Vircava Platone
+Zilupe Ludza
+Zvigzdene Ludza

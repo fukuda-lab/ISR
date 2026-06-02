@@ -1,0 +1,9 @@
+ip ospf cost 1
+description "To Spartanburg"
+--------------------
+ip ospf cost 1
+description "To RockHill"
+--------------------
+ip ospf cost 1
+description "To Concord"
+--------------------

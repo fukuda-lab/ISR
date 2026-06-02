@@ -1,0 +1,12 @@
+ip ospf cost 1
+description "To Bucharest"
+--------------------
+ip ospf cost 1
+description "To Sofia"
+--------------------
+ip ospf cost 1
+description "To Bratislava"
+--------------------
+ip ospf cost 1
+description "To Zagreb"
+--------------------

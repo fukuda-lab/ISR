@@ -1,0 +1,12 @@
+ip ospf cost 1
+description "To Yemassee"
+--------------------
+ip ospf cost 1
+description "To NodeID86"
+--------------------
+ip ospf cost 1
+description "To Blitchton"
+--------------------
+ip ospf cost 1
+description "To Hinesville"
+--------------------

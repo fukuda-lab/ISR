@@ -1,0 +1,12 @@
+ip ospf cost 1
+description "To Charleston"
+--------------------
+ip ospf cost 1
+description "To Troutville"
+--------------------
+ip ospf cost 1
+description "To RockyMount"
+--------------------
+ip ospf cost 12
+description "To Lynchburg"
+--------------------

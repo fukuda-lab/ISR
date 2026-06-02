@@ -1,0 +1,9 @@
+ip ospf cost 1
+description "To Frankfurt"
+--------------------
+ip ospf cost 2
+description "To Basel"
+--------------------
+ip ospf cost 1
+description "To Luxembourg"
+--------------------

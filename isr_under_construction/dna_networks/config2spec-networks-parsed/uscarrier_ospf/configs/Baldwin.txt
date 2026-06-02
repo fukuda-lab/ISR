@@ -1,0 +1,6 @@
+ip ospf cost 2
+description "To Boone"
+--------------------
+ip ospf cost 1
+description "To Sparta"
+--------------------

@@ -1,0 +1,6 @@
+ip ospf cost 1
+description "To NodeID24"
+--------------------
+ip ospf cost 1
+description "To TrinidadandTobago"
+--------------------

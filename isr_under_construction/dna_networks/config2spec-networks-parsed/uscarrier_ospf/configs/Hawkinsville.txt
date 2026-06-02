@@ -1,0 +1,9 @@
+ip ospf cost 1
+description "To Leslie"
+--------------------
+ip ospf cost 1
+description "To Rentz"
+--------------------
+ip ospf cost 1
+description "To Warwick"
+--------------------

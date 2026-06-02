@@ -1,0 +1,12 @@
+ip ospf cost 1
+description "To Spartanburg"
+--------------------
+ip ospf cost 1
+description "To Asheville"
+--------------------
+ip ospf cost 1
+description "To Clemson"
+--------------------
+ip ospf cost 1
+description "To Easley"
+--------------------

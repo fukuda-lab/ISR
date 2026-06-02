@@ -1,0 +1,15 @@
+ip ospf cost 1
+description "To Columbia"
+--------------------
+ip ospf cost 1
+description "To NodeID37"
+--------------------
+ip ospf cost 1
+description "To NodeID34"
+--------------------
+ip ospf cost 1
+description "To NodeID7"
+--------------------
+ip ospf cost 1
+description "To NodeID0"
+--------------------

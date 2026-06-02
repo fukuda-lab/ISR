@@ -1,0 +1,6 @@
+ip ospf cost 1
+description "To Jacksonville"
+--------------------
+ip ospf cost 1
+description "To Kinston"
+--------------------

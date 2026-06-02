@@ -1,0 +1,9 @@
+ip ospf cost 8
+description "To Harrisonburg"
+--------------------
+ip ospf cost 1
+description "To Troutville"
+--------------------
+ip ospf cost 9
+description "To Waynesboro"
+--------------------

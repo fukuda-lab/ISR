@@ -1,0 +1,9 @@
+ip ospf cost 1
+description "To Dalton"
+--------------------
+ip ospf cost 1
+description "To Blueridge"
+--------------------
+ip ospf cost 1
+description "To Canton"
+--------------------

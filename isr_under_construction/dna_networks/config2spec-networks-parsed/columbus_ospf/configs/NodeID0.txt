@@ -1,0 +1,6 @@
+ip ospf cost 1
+description "To NodeID27"
+--------------------
+ip ospf cost 10
+description "To NodeID1"
+--------------------

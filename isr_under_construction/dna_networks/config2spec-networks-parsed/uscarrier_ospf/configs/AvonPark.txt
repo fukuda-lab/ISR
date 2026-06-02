@@ -1,0 +1,6 @@
+ip ospf cost 1
+description "To WinterPark"
+--------------------
+ip ospf cost 1
+description "To FortMyers"
+--------------------

@@ -1,0 +1,9 @@
+ip ospf cost 1
+description "To Roanoke"
+--------------------
+ip ospf cost 1
+description "To Charlottesville"
+--------------------
+ip ospf cost 1
+description "To Danville"
+--------------------

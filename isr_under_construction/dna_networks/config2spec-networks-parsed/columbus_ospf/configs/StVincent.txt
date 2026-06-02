@@ -1,0 +1,6 @@
+ip ospf cost 1
+description "To Curacao"
+--------------------
+ip ospf cost 1
+description "To TrinidadandTobago"
+--------------------

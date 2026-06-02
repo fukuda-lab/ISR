@@ -1,0 +1,9 @@
+ip ospf cost 1
+description "To Blairsville"
+--------------------
+ip ospf cost 1
+description "To Copperhill"
+--------------------
+ip ospf cost 1
+description "To Ellijay"
+--------------------
